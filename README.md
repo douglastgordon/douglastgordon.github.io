@@ -1,1 +1,1 @@
-#(Link)[http://www.douglasgordon.me/]
+#[Link](http://www.douglasgordon.me/)
